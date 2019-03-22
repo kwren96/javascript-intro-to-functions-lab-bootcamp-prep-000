@@ -4,4 +4,4 @@ function whisper(string) {return string.toLowerCase()}
 
 function logWhisper(string) {console.log(string.toLowerCase)}
 function logShout(string) {console.log(string.toUpperCase)}
-if (string = string.toUpperCase) then function sayHiToGrandma(string) {return 
+if (string = string.toUpperCase) {return ('I can't hear you')}
